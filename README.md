@@ -5,4 +5,4 @@ If you would like to know more about me and why I chose to use Scratch, or many 
 
 More will be added here in the future. :)
 
-<img src="1600px-NKC_Mushroom_Kingdom_Background-ezgif.com-webp-to-png-converter.png" alt="optional alternative title" align="optional (left, center, right)" width="1000 (x)" height="optional (x)"></img>
+<img src="background" alt="optional alternative title" align="optional (left, center, right)" width="1000 (x)" height="optional (x)"></img>
