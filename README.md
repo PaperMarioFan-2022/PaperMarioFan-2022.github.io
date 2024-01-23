@@ -1,7 +1,7 @@
 # Hello! Welcome to my home page!
 This is my official repository website for more information about me and what I am on.
 
-If you would like to know more about me and why I chose to use Scratch, or many other things, then please visit my official website (coming soon and soon to be added.)
+My name is Matthew, but you can call me Matt for short. I love video games, music, art, and memes. I live in the West side of the USA, and that's it.
 
 More will be added here in the future. :)
 
