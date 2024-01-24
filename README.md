@@ -1,2 +1,2 @@
-<div align=center><h1>This repository is undergoing maintenance currently.</h1>
+<div align=center><h1>Oh a' no! This repository is undergoing maintenance!</h1>
 Currently, it's been just entirely emptied - Everything should be back soon though.</div>
