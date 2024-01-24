@@ -1,7 +1,8 @@
 body {
-color:#6121B0; /* feel free to remove this - this is just text color unless i remember css wrong */
-background-image: url('./nsmbu.png');
+color:#000; /* feel free to remove this - this is just text color unless i remember css wrong */
+background-image: url('./background.png');
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
 }
+Footer
