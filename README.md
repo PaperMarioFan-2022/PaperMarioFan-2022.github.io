@@ -1,5 +1,2 @@
-This will be revisioned since I have no clue on what to do with this.
-
-Keep in mind that the website is currently under development, so it will be temporarily unavailable to the general public.
-
-Check out this page again, or try to refresh this page again. If the issue still persists, contact me at <a href="https://github.com/PaperMarioFan-2022">PaperMarioFan-2022 on GitHub</a>.
+<div align=center><h1>This repository is undergoing maintenance currently.</h1>
+Currently, it's been just entirely emptied - Everything should be back soon though.</div>
