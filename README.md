@@ -1,6 +1,6 @@
-<div style="text-align:center"><img src="file:///media/fuse/drivefs-6bb075d73a88044468f92ec7be37bf40/root/NSMBU-Mario-Death.png" /
-</div>
-
+<p align="center">
+  <img width="460" height="300" src="https://im4.ezgif.com/tmp/ezgif-4-03b4a4acf2.png">
+</p>
 
 <div align=center><h1>Oh a' no! This repository is undergoing maintenance!</h1>
 Currently, it's been just entirely emptied - Everything should be back soon though.</div>
