@@ -5,5 +5,4 @@
 Currently, it's been just entirely emptied - Everything should be back soon though.</div>
 
 <p align="center">
-Refresh this page if your having issues or contact me on GitHub about it here:
-https://github.com/PaperMarioFan-2022
+Refresh this page if your having issues or contact me on <b><a href="https://github.com/PaperMarioFan-2022">Github</a></b>.</p>
