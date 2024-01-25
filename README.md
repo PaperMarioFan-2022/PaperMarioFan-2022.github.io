@@ -3,3 +3,7 @@
 
 <div align=center><h1>Oh a' no! This repository is undergoing maintenance!</h1>
 Currently, it's been just entirely emptied - Everything should be back soon though.</div>
+
+<p align="center">
+Refresh this page if your having issues or contact me on GitHub about it here:
+https://github.com/PaperMarioFan-2022
