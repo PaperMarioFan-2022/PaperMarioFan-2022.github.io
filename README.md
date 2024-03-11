@@ -6,3 +6,5 @@ Currently, it's been just entirely emptied - Everything should be back soon thou
 
 <p align="center">
 Refresh this page if your having issues or contact me on <b><a href="https://github.com/PaperMarioFan-2022">Github</a></b>.</p>
+
+Nintendo® for the assets/images of NSMBU Deluxe
