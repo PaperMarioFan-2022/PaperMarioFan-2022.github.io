@@ -7,4 +7,4 @@ Since the last image hosting api is blocked, I had to switch over to Githubs.
 Refresh this page if you're having issues or contact me on <b><a href="https://scratch.mit.edu/PaperMarioFan2022/">Scratch</a></b> or <b><a href="https://github.com/PaperMarioFan-2022">Github</a></b>.</p>
 
 <p align="center">
-Nintendo® for the assets/images of NSMBU Deluxe
+Nintendo® for the assets/images and renders
